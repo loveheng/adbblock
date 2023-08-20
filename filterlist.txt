@@ -1,4 +1,4 @@
 ||m.weibo.cn^
 ||weibo.com^
-||guba.eastmoney.com^
+||eastmoney.com^
 ||zhihu.com^
