@@ -1,6 +1,6 @@
-||m.weibo.cn^
-||weibo.com^
-||eastmoney.com^
-||zhihu.com^
-||dapenti.com^
-||jiuse.icu^
+||^m.weibo.cn^
+||^weibo.com^
+||^eastmoney.com^
+||^zhihu.com^
+||^dapenti.com^
+||^jiuse.icu^
